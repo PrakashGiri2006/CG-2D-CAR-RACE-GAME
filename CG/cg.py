@@ -7,8 +7,6 @@ CG concepts used:
     fixed-rate frame loop
 
 Controls: LEFT/RIGHT = steer, UP/DOWN = speed, P = pause, R = restart, ESC = quit
-Install : pip install pygame
-Run     : python car_racing_pygame.py
 """
 import math
 import random
